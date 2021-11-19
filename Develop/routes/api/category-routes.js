@@ -14,7 +14,6 @@ router.get('/', (req, res) => {
     console.log(data);
     res.json(data)
   })
-  // be sure to include its associated Products
 });
 
 router.get('/:id', (req, res) => {
@@ -37,7 +36,7 @@ router.post('/', (req, res) => {
       console.log(data);
       res.json(data)
     })
-})
+});
 
 router.put('/:id', (req, res) => {
   // update a category by its `id` value
