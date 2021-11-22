@@ -5,6 +5,7 @@
   ## Table of Contents 
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Technologies used](#technologies)
   - [Demo](#demo)
   - [Extension ideas](#extensions)
   - [License](#license)
@@ -14,6 +15,12 @@
      npm i
   ## Usage
   Knowldge of CLI
+  ## Technologies
+  - Express.js
+  - Sequelize
+  - Insomnia
+  - Javascript
+  - MySql
   ## Demo
   Follow this link for a demo: https://drive.google.com/file/d/1IvSCTLHSd_Xx6j-z_WIGvBUwoDLeBsu8/view?usp=sharing
   ## Extensions
